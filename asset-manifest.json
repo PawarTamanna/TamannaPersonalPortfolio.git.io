@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TamannaPersonalPortfolio/static/css/main.579ea399.css",
+    "main.js": "/TamannaPersonalPortfolio/static/js/main.ebd45cd3.js",
+    "static/media/pro2.png": "/TamannaPersonalPortfolio/static/media/pro2.1833723bfc6a932226a2.png",
+    "static/media/pro1.png": "/TamannaPersonalPortfolio/static/media/pro1.ada7a97b7eb61e9192eb.png",
+    "static/media/img2.png": "/TamannaPersonalPortfolio/static/media/img2.fce26d93c66008463bd6.png",
+    "static/media/pro3.png": "/TamannaPersonalPortfolio/static/media/pro3.0380755670a5dccb9e96.png",
+    "static/media/tn2.jpeg": "/TamannaPersonalPortfolio/static/media/tn2.15b396ac4cc23408ce59.jpeg",
+    "static/media/tn1.jpeg": "/TamannaPersonalPortfolio/static/media/tn1.c4580b805cf00c244cf8.jpeg",
+    "static/media/Tamanna_PAWAR.pdf": "/TamannaPersonalPortfolio/static/media/Tamanna_PAWAR.4de4f8ad0b79c208c824.pdf",
+    "index.html": "/TamannaPersonalPortfolio/index.html",
+    "main.579ea399.css.map": "/TamannaPersonalPortfolio/static/css/main.579ea399.css.map",
+    "main.ebd45cd3.js.map": "/TamannaPersonalPortfolio/static/js/main.ebd45cd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.579ea399.css",
+    "static/js/main.ebd45cd3.js"
+  ]
+}
